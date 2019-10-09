@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyFirstProject</string>
+    <string name="ipaddress">IP Address:</string>
 </resources>
