@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MyFirstProject</string>
-    <string name="ipaddress">IP Address:</string>
+    <string name="greeting">Hello World</string>
+  <string name="ipaddress">IP Address:</string>
 </resources>
